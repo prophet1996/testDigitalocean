@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/prophet1996/testDigitalocean/issues"
   },
-  "homepage": "https://github.com/prophet1996/testDigitalocean#readme"
+  "homepage": "https://github.com/prophet1996/testDigitalocean#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
 }
